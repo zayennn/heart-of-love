@@ -3,16 +3,19 @@
     padding: 0;
     border: 0;
 }
+
 .icon-love {
     width: 400px;
 }
-html, body {
+
+html,
+body {
     width: 100%;
     height: 100%;
 }
 
 body {
-    overflow: hidden; 
+    overflow: hidden;
 }
 
 .container {
@@ -66,73 +69,95 @@ body {
     0% {
         width: 0;
     }
+
     5% {
         width: 5%;
     }
+
     10% {
         width: 10%;
     }
+
     15% {
         width: 15%;
     }
+
     20% {
         width: 20%;
     }
+
     25% {
         width: 25%;
     }
+
     30% {
         width: 30%;
     }
+
     35% {
         width: 35%;
     }
+
     40% {
         width: 40%;
     }
+
     45% {
         width: 45%;
     }
+
     50% {
         width: 50%;
     }
+
     55% {
         width: 55%;
     }
+
     60% {
         width: 60%;
     }
+
     65% {
         width: 65%;
     }
+
     70% {
         width: 70%;
     }
+
     75% {
         width: 75%;
     }
+
     80% {
         width: 80%;
     }
+
     85% {
         width: 85%;
     }
+
     90% {
         width: 90%;
     }
+
     95% {
         width: 95%;
     }
+
     100% {
         width: 100%;
     }
 
 }
+
 .footer {
     bottom: 30px;
     position: relative;
     z-index: 99;
 }
+
 .footer .border .border-top {
     /*width: 0;*/
     /*display: inline-block;*/
@@ -141,7 +166,7 @@ body {
     -webkit-animation: border 312 linear;
     -o-animation: border 12s linear;
     animation: border 12s linear;
-    animation-fill-mode : both;
+    animation-fill-mode: both;
     /*border-bottom: none;*/
 }
 
@@ -154,7 +179,7 @@ body {
     -webkit-animation: border 7s linear 12s;
     -o-animation: border 7s linear 12s;
     animation: border 7s linear 12s;
-    animation-fill-mode : both;
+    animation-fill-mode: both;
     /*border-bottom: none;*/
 }
 
